@@ -37,9 +37,9 @@ function App() {
             <li>
               Click on the <b>'Open WhatsApp'</b> button.
             </li>
-            <li>If clicking on open WhatsApp give any type of error this means you have enter the number wrong or that number is not able to chat on WhatsApp,<b>(Mainly on Desktop)
+            <li>If clicking on open WhatsApp give any type of error this means you have enter the number wrong,then Please, recheck the phone number, or that number is not able to chat on WhatsApp,<b>(Mainly on Desktop)
             </b>
-              Please, recheck the number.
+            
             </li>
           </ol>
         </div>
